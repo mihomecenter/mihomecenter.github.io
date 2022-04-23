@@ -1,0 +1,3 @@
+HiWatch Camera Admin
+Login : admin
+Password : qwe12345qwe

@@ -1,0 +1,3 @@
+Camera HiWatch
+Login : camera
+Password : Admin123
